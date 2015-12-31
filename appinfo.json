@@ -3,11 +3,18 @@
     "capabilities": [
         ""
     ],
-    "companyName": "anewman@amenoph.us",
+    "companyName": "Uninspired Software",
     "longName": "Present",
     "projectType": "native",
     "resources": {
         "media": [
+            {
+                "file": "images/present-icon.png",
+                "menuIcon": true,
+                "name": "PRESENT_ICON",
+                "targetPlatforms": null,
+                "type": "bitmap"
+            },
             {
                 "file": "images/lotus-mandala.bmp",
                 "name": "LOTUS_MANDALA",
@@ -18,6 +25,11 @@
     },
     "sdkVersion": "3",
     "shortName": "Present",
+    "targetPlatforms": [
+        "aplite",
+        "basalt",
+        "chalk"
+    ],
     "uuid": "77ce60fd-5e9d-45e0-b30c-12444c9d6015",
     "versionLabel": "1.0",
     "watchapp": {
