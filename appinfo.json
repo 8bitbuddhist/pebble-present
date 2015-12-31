@@ -7,7 +7,14 @@
     "longName": "Present",
     "projectType": "native",
     "resources": {
-        "media": []
+        "media": [
+            {
+                "file": "images/lotus-mandala.bmp",
+                "name": "LOTUS_MANDALA",
+                "targetPlatforms": null,
+                "type": "bitmap"
+            }
+        ]
     },
     "sdkVersion": "3",
     "shortName": "Present",
