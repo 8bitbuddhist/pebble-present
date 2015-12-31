@@ -1,0 +1,19 @@
+{
+    "appKeys": {},
+    "capabilities": [
+        ""
+    ],
+    "companyName": "anewman@amenoph.us",
+    "longName": "Present",
+    "projectType": "native",
+    "resources": {
+        "media": []
+    },
+    "sdkVersion": "3",
+    "shortName": "Present",
+    "uuid": "77ce60fd-5e9d-45e0-b30c-12444c9d6015",
+    "versionLabel": "1.0",
+    "watchapp": {
+        "watchface": false
+    }
+}
